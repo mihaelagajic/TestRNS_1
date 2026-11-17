@@ -5,7 +5,7 @@
 #define GPIO_PIN GPIO_PIN3
 #define CONSTANT 33
 #define CONSTANT1 36
-
+#define const
 
 
 void main()
